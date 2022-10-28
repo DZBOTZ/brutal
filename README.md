@@ -18,7 +18,7 @@
 </div>
 
 ## NOTE
-Jangan menyalahgunakan script ini, gunakan script ini dengan bijak. Dosa ditanggung yang pakai !
+Jangan menyalahgunakan script ini, gunakan script ini dengan bijak. Dosa ditanggung yang pakai !!
 
 <h1 align="center">BRUTAL-SPAM-WA</h1>
 
